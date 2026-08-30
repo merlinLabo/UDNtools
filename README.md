@@ -35,6 +35,6 @@ Placed in the game's root directory. On startup it will:
 - Builds the command line for game\DANCEaROUND.exe
 
 ### Launcher Command Line
-``launcher.exe [args passed through to the game...]`` 
+``launcher.exe [args]`` 
 - --nowait (return immediately after launching instead of waiting)
 - --check (only run the environment check, print the result, and exit — used for scripting).
